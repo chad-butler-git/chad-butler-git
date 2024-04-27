@@ -1,5 +1,10 @@
 ### Hi there 👋
+I am a business and people-focused security leader with over 23 years of experience in technology and security, including over 13 years in leadership roles managing other leaders and senior security and development engineers. 
 
+I enjoy building security guardrails and paved roads to provide greater security for the products that we rely on.
+
+- 💬 Ask me about product security, security for startups, and career hacking
+-   :key: GPG key: [`D5DA 5CE8 2A97 13D8 E402 0E91 631A D442 A02E 36C6`](https://keys.openpgp.org/vks/v1/by-fingerprint/D5DA5CE82A9713D8E4020E91631AD442A02E36C6)
 <!--
 **chad-butler-git/chad-butler-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
